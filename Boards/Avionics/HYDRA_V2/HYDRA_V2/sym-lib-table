@@ -8,4 +8,5 @@
   (lib (name "ThermoPCBConnector")(type "KiCad")(uri "${KICAD_CUSTOM_DIR}/Contacts&Switches/ThermoPCBConnector/ThermoPCBConnector.kicad_sym")(options "")(descr ""))
   (lib (name "1723103103")(type "KiCad")(uri "${KICAD_CUSTOM_DIR}/Contacts&Switches/1723103103/1723103103.kicad_sym")(options "")(descr ""))
   (lib (name "Mini Dc-Dc")(type "KiCad")(uri "${KICAD_CUSTOM_DIR}/Breakout Boards/DCDCModule/Mini Dc-Dc.kicad_sym")(options "")(descr ""))
+  (lib (name "SP3485CN-L_TR")(type "KiCad")(uri "C:/Users/rafae/Desktop/PST/Invictus3.0_Hardware/Symbols Lib/SP3485CN-L_TR/SP3485CN-L_TR.kicad_sym")(options "")(descr ""))
 )
