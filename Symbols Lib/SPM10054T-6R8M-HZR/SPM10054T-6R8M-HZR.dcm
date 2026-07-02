@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SPM10054T-6R8M-HZR
+D Power Inductors - SMD 6.8uH 20% 23.21mOhms AEC-Q200
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm10054-hzr_en.pdf
+$ENDCMP
+#
+#End Doc Library

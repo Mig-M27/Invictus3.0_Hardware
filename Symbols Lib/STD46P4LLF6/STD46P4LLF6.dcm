@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STD46P4LLF6
+D P-channel 40 V, 0.0125 Ohm typ., 46 A STripFET F6 Power MOSFET in a DPAK package
+K
+F https://www.st.com/resource/en/datasheet/std46p4llf6.pdf
+$ENDCMP
+#
+#End Doc Library
