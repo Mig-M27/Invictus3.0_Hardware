@@ -9,4 +9,6 @@
 	(lib (name "AP64501SP_13") (type "KiCad") (uri "C:/Users/rafae/Desktop/PST/Invictus3.0_Hardware/Symbols Lib/AP64501SP_13") (options "") (descr ""))
 	(lib (name "SPM10054T-6R8M-HZR") (type "KiCad") (uri "C:/Users/rafae/Desktop/PST/Invictus3.0_Hardware/Symbols Lib/SPM10054T-6R8M-HZR") (options "") (descr ""))
 	(lib (name "STD46P4LLF6") (type "KiCad") (uri "C:/Users/rafae/Desktop/PST/Invictus3.0_Hardware/Symbols Lib/STD46P4LLF6") (options "") (descr ""))
+	(lib (name "XT30UPB-F") (type "KiCad") (uri "C:/Users/rafae/Desktop/PST/Invictus3.0_Hardware/Symbols Lib/XT30UPB-F") (options "") (descr ""))
+	(lib (name "LED-Yellow_VLMY1300-GS08") (type "KiCad") (uri "C:/Users/rafae/Desktop/PST/Invictus3.0_Hardware/Symbols Lib/LED-Yellow_VLMY1300-GS08") (options "") (descr ""))
 )

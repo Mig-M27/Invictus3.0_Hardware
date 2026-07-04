@@ -10,4 +10,7 @@
 	(lib (name "Mini Dc-Dc") (type "KiCad") (uri "${KICAD_CUSTOM_DIR}/Breakout Boards/DCDCModule/Mini Dc-Dc.kicad_sym") (options "") (descr ""))
 	(lib (name "SP3485CN-L_TR") (type "KiCad") (uri "C:/Users/rafae/Desktop/PST/Invictus3.0_Hardware/Symbols Lib/SP3485CN-L_TR/SP3485CN-L_TR.kicad_sym") (options "") (descr ""))
 	(lib (name "AP64501SP_13") (type "KiCad") (uri "C:/Users/rafae/Desktop/PST/Invictus3.0_Hardware/Symbols Lib/AP64501SP_13/AP64501SP_13.kicad_sym") (options "") (descr ""))
+	(lib (name "STD46P4LLF6") (type "KiCad") (uri "C:/Users/rafae/Desktop/PST/Invictus3.0_Hardware/Symbols Lib/STD46P4LLF6/STD46P4LLF6.kicad_sym") (options "") (descr ""))
+	(lib (name "XT30UPB-F") (type "KiCad") (uri "C:/Users/rafae/Desktop/PST/Invictus3.0_Hardware/Symbols Lib/XT30UPB-F/XT30UPB-F.kicad_sym") (options "") (descr ""))
+	(lib (name "VLMY1300-GS08") (type "KiCad") (uri "C:/Users/rafae/Desktop/PST/Invictus3.0_Hardware/Symbols Lib/LED-Yellow_VLMY1300-GS08/VLMY1300-GS08.kicad_sym") (options "") (descr ""))
 )
