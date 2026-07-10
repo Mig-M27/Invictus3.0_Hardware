@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SS10PH102HM3_I
+#/22092320/1715029/2.50/3/3/Schottky Diode with Dual Anode
+DEF SS10PH102HM3_I D 0 30 Y Y 1 F N
+F0 "D" 500 350 50 H V L CNN
+F1 "SS10PH102HM3_I" 500 250 50 H V L CNN
+F2 "SS10PH102HM3I" 500 150 50 H I L CNN
+F3 "https://www.vishay.com/docs/98802/ss10ph102.pdf" 500 50 50 H I L CNN
+F4 "Diode 100 V 3.2A Surface Mount TO-277A (SMPC)" 500 -50 50 H I L CNN "Description"
+F5 "1.2" 500 -150 50 H I L CNN "Height"
+F6 "" 500 -250 50 H I L CNN "Mouser Part Number"
+F7 "" 500 -350 50 H I L CNN "Mouser Price/Stock"
+F8 "Vishay" 500 -450 50 H I L CNN "Manufacturer_Name"
+F9 "SS10PH102HM3/I" 500 -550 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 3 100 0 100 R 50 50 0 0 P
+X ~ 1 700 100 100 L 50 50 0 0 P
+X ~ 2 700 -100 100 L 50 50 0 0 P
+P 2 0 1 6 300 100 300 -100 N
+P 3 0 1 6 300 100 340 100 340 60 N
+P 3 0 1 6 300 -100 260 -100 260 -60 N
+P 2 0 1 6 200 0 300 0 N
+P 2 0 1 6 500 0 600 0 N
+P 2 0 1 6 600 100 600 -100 N
+P 4 0 1 10 300 0 500 100 500 -100 300 0 F
+ENDDRAW
+ENDDEF
+#
+#End Library

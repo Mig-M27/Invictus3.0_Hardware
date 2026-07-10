@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SS10PH102HM3_I
+D Diode 100 V 3.2A Surface Mount TO-277A (SMPC)
+K
+F https://www.vishay.com/docs/98802/ss10ph102.pdf
+$ENDCMP
+#
+#End Doc Library

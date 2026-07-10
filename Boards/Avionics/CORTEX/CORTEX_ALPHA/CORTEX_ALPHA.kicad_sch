@@ -4133,6 +4133,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "check if navigator needs 5, if not change to 4.6\n"
+		(exclude_from_sim no)
+		(at 312.42 59.436 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "214a47cc-7a15-4e72-b35e-98968a9e6bbe")
+	)
 	(text "LDO 5V-3.3V\n"
 		(exclude_from_sim no)
 		(at 137.414 170.18 0)
@@ -4365,16 +4375,6 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 38.1) (xy 157.48 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06bd51e1-94b6-41ca-bbfa-87becd40e65b")
-	)
-	(wire
-		(pts
 			(xy 254 137.16) (xy 252.73 137.16)
 		)
 		(stroke
@@ -4455,7 +4455,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 38.1) (xy 157.48 38.1)
+			(xy 132.08 43.18) (xy 157.48 43.18)
 		)
 		(stroke
 			(width 0)
@@ -4582,6 +4582,16 @@
 			(type default)
 		)
 		(uuid "56e30902-4dcf-4fe5-9721-12fedc6c5a37")
+	)
+	(wire
+		(pts
+			(xy 132.08 43.18) (xy 132.08 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c2ef18c-48e9-4fd5-b37f-ce6a0b3d78e5")
 	)
 	(wire
 		(pts
