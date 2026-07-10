@@ -1,0 +1,138 @@
+{
+  "board": "D:\\PST\\Repos\\Invictus3.0_Hardware\\Boards\\Avionics\\CORTEX\\CORTEX_ALPHA\\CORTEX_ALPHA.kicad_pcb",
+  "timestamp": "2026-07-09T17:58:45",
+  "total_violations": 12,
+  "violation_counts": {
+    "lib_footprint_issues": 6,
+    "lib_footprint_mismatch": 3,
+    "silk_overlap": 2,
+    "silk_over_copper": 1
+  },
+  "severity_counts": {
+    "error": 0,
+    "warning": 12,
+    "info": 0
+  },
+  "violations": [
+    {
+      "type": "lib_footprint_issues",
+      "severity": "warning",
+      "message": "The current configuration does not include the footprint library 'FEUP-text'",
+      "location": {
+        "x": 176.0,
+        "y": 89.0,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'RaspberryPi_Pico_Common_Unspecified' does not match copy in library 'Module'",
+      "location": {
+        "x": 157.89,
+        "y": 100.57,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_issues",
+      "severity": "warning",
+      "message": "The current configuration does not include the footprint library 'Radio_Module_PST'",
+      "location": {
+        "x": 130.5,
+        "y": 93.0,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_issues",
+      "severity": "warning",
+      "message": "The footprint library '1200700164_MOL' is not enabled in the current configuration",
+      "location": {
+        "x": 104.8951,
+        "y": 96.351394,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_issues",
+      "severity": "warning",
+      "message": "The current configuration does not include the footprint library 'CORTEX'",
+      "location": {
+        "x": 112.5,
+        "y": 117.5,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_issues",
+      "severity": "warning",
+      "message": "The footprint library 'Eurocircuits' is not enabled in the current configuration",
+      "location": {
+        "x": 116.5,
+        "y": 117.5,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'PinSocket_1x06_P2.54mm_Vertical' does not match copy in library 'Connector_PinSocket_2.54mm'",
+      "location": {
+        "x": 175.5,
+        "y": 111.46,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'PinSocket_1x06_P2.54mm_Vertical' does not match copy in library 'Connector_PinSocket_2.54mm'",
+      "location": {
+        "x": 129.675,
+        "y": 76.525,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_issues",
+      "severity": "warning",
+      "message": "The footprint library 'LogoPST' is not enabled in the current configuration",
+      "location": {
+        "x": 101.0,
+        "y": 77.0,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "silk_overlap",
+      "severity": "warning",
+      "message": "Silkscreen clearance (board setup constraints silk clearance 0.1100 mm; actual 0.0427 mm)",
+      "location": {
+        "x": 137.59,
+        "y": 109.59,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "silk_overlap",
+      "severity": "warning",
+      "message": "Silkscreen clearance (board setup constraints silk clearance 0.1100 mm; actual 0.0427 mm)",
+      "location": {
+        "x": 137.59,
+        "y": 113.35,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "silk_over_copper",
+      "severity": "warning",
+      "message": "Silkscreen clipped by solder mask",
+      "location": {
+        "x": 122.685878,
+        "y": 121.696452,
+        "unit": "mm"
+      }
+    }
+  ]
+}
